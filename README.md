@@ -9,7 +9,6 @@ CentrED is released under the CDDL - the Common Development and Distribution Lic
 
 #### Compiling
 To build CentrED you need at least FreePascal 2.2.2 and a recent Lazarus (at least 0.9.26). You also have to have the following packages installed:
-***
 
 VirtualTrees from http://code.google.com/p/luipack/wiki/VirtualTreeview
 LazOpenGLContext (included with Lazarus)
@@ -23,3 +22,6 @@ The client project can be found in Client/CentrED.lpi and the server projectin S
 
 #### Thanks
 Almindor for lNet and his support on how to use it efficently. Marek Mauder for the great Vampyre Imaging Library and also his support and extensions. Luiz Américo Pereira Câmara for his nice port of VirtualTrees. And last but not least the whole FPC and Lazarus team for developing, maintaining and supporting such great development tools, which make life a lot easier.
+
+Originally released by Hitman on:
+https://hg.aksdb.de/CentrED
